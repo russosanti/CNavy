@@ -1,0 +1,1 @@
+navy2 minas1.txt minas2.txt player.txt
